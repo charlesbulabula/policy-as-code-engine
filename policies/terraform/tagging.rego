@@ -67,4 +67,4 @@ warn[msg] {
     msg := sprintf("Resource '%s' is missing recommended tag 'ManagedBy' (e.g. terraform, cdk)", [resource.name])
 }
 
-# _r 20260522152402-d188031c
+# _r 20260525102602-fd6eecc5
