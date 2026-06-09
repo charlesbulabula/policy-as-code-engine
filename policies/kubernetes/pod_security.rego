@@ -76,4 +76,4 @@ deny[msg] {
     msg := sprintf("Container '%s' must not allow privilege escalation", [container.name])
 }
 
-# _r 20260604142503-c05ebedd
+# _r 20260606160105-24e6d7d4
